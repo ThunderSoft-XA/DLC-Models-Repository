@@ -32,13 +32,19 @@ There are several demos based on SNPE deployment deep learning model:
     This demo uses the VGG-19 neural network structure, and the model type is HPR-Model .
 
 ## 3. DLC-List
+Currently, all DLC files are placed in the following cloud space :
+
+cloud space: https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA
+
+Extraction code : ycjk
+
 |  Model Type   | Network structure type  | Model Link |
 |  ----  | ----  | ---- |
-| MOD-Model  | Inception_v3 | [https://thundersoft.feishu.cn/file/boxcnHFRLqnt3cgkNXTrCCTr9gh](https://thundersoft.feishu.cn/file/boxcnHFRLqnt3cgkNXTrCCTr9gh) |
-| LPR-Model  | MobileNet-SSD | [https://thundersoft.feishu.cn/file/boxcnnIIuIJuwkbaH6Q9LTDMalg](https://thundersoft.feishu.cn/file/boxcnnIIuIJuwkbaH6Q9LTDMalg) |
-| SOT-Model  | Goturn | [https://thundersoft.feishu.cn/file/boxcn18fkZfhB3PQjaDTny2zqcd](https://thundersoft.feishu.cn/file/boxcn18fkZfhB3PQjaDTny2zqcd) |
-| AGD-Model | Dlib | [https://thundersoft.feishu.cn/file/boxcnL6SEuCXPYHt2p5KRpnQ1Fd](https://thundersoft.feishu.cn/file/boxcnL6SEuCXPYHt2p5KRpnQ1Fd) |
-| HPR-Model | VGG-19 | [https://thundersoft.feishu.cn/file/boxcnUI12CfLTtTPtP78X3cV1Re](https://thundersoft.feishu.cn/file/boxcnUI12CfLTtTPtP78X3cV1Re) |
+| MOD-Model  | Inception_v3 | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FMOD-Model](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FMOD-Model) |
+| LPR-Model  | MobileNet-SSD | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FLPR-Model](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FLPR-Model) |
+| SOT-Model  | Goturn | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FSOT-Model](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FSOT-Model) |
+| AGD-Model | Dlib | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FAGD-MOdel](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FAGD-MOdel) |
+| HPR-Model | VGG-19 | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FHPR-Model](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FHPR-Model) |
 		
 		
 		
