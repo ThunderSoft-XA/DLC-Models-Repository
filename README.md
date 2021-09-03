@@ -45,7 +45,6 @@ Extraction code : ycjk
 | SOT-Model  | Goturn | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FSOT-Model](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FSOT-Model) |
 | AGD-Model | Dlib | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FAGD-MOdel](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FAGD-MOdel) |
 | HPR-Model | VGG-19 | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FHPR-Model](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FHPR-Model) |
-| RB5-Model | MobileNet | [https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FRB5](https://pan.baidu.com/s/1hyA1RVKh6tpLx21d1NlszA#list/path=%2FDLC-Models-Repository%2FRB5) |
 
 		
 		
